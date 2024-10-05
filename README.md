@@ -2,17 +2,17 @@
 
 ## ⚙️ Project Overview
 
-The Nutrition Facts Chat Assistant is an advanced, AI-powered application that leverages Retrieval-Augmented Generation (RAG) to provide accurate and contextual nutritional information. This project demonstrates the practical application of cutting-edge natural language processing techniques in the field of nutrition and dietary information.
+The Nutrition Facts Chat Assistant is an advanced, AI-powered application that leverages Retrieval-Augmented Generation (RAG) to answer questions and provide accurate and contextual nutritional information. This project demonstrates the practical application of cutting-edge natural language processing techniques in the field of nutrition and dietary information. The USDA FoodData Central dataset was used for comprehensive nutritional information.
 
 ## ⚙️ Key Features
 
-- **RAG-based Information Retrieval**: Utilizes a sophisticated RAG system to fetch and generate relevant nutritional information from a comprehensive database.
-- **Interactive User Interface**: Offers a user-friendly interface for querying nutritional information, built with Streamlit for seamless interaction.
+- **RAG-based Information Retrieval**: Utilizes a sophisticated RAG system witgh a FAISS index to fetch and generate relevant nutritional information from a comprehensive database.
+- **Interactive User Interface**: Offers a user-friendly interface for querying nutritional information, built with Streamlit for seamless interaction and containerized with Docker for easy deployment. 
 - **High-Accuracy Responses**: Employs state-of-the-art language models to ensure accurate and contextually appropriate answers to nutritional queries.
 - **Performance Evaluation**: Implements rigorous evaluation metrics including cosine similarity and LLM-as-a-judge to assess the quality of generated responses.
 - **Data Visualization**: Features insightful visualizations of system performance and nutritional data distributions.
 - **Automated Data Ingestion**: Includes a robust pipeline for ingesting and processing new nutritional data, ensuring the system stays up-to-date.
-- **Real-time Monitoring**: Provides a dashboard for monitoring system performance and user interactions in real-time.
+- **Real-time Monitoring**: Provides a dashboard for monitoring system usage and performance and user interactions in real-time.
 
 ## ⚙️ Technical Stack
 
@@ -25,7 +25,7 @@ The Nutrition Facts Chat Assistant is an advanced, AI-powered application that l
 
 ## ⚙️ Getting Started
 
-[will include instructions on set-up]
+[will include steps for set up]
 
 ## ⚙️ Project Structure
 
@@ -37,6 +37,10 @@ This project employs a two-pronged approach to evaluate the performance of the c
 
 1. **Cosine Similarity**: Measures the similarity between the generated answers and the ground truth from our nutrition database.
 2. **LLM-as-a-Judge**: Utilizes a language model to provide a qualitative assessment of the generated answers, classifying them as RELEVANT, PARTLY_RELEVANT, or NON_RELEVANT.
+
+## ⚙️ Deployment
+
+This project is deployed on Hugging Face Spaces. Visit [will link space] to interact with the live demo
 
 ## ⚙️ License
 
