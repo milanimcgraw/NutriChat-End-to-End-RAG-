@@ -6,6 +6,7 @@ The Nutrition Facts Chat Assistant is an advanced, AI-powered application that l
 
 ## ⚙️ Technical Stack
 
+-**Knowledge Base**: Nutrition Facts dataset (nutritionfacts.json)
 - **LLM**: OpenAI (GPT 4o)
 - **RAG Evaluation**: Cosine Similarity, LLM as a Judge
 - **Retrieval Evaluation**: Text and Vector Evaluations with Hit Rate, MRR 
