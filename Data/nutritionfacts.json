@@ -7,7 +7,7 @@
       "Calories": 1373,
       "Protein": 89,
       "Fat": 42,
-      "Sat.Fat": 23,
+      "SatFat": 23,
       "Fiber": 1.4,
       "Carbs": 119,
       "Category": "Dairy products"
@@ -19,7 +19,7 @@
       "Calories": 515,
       "Protein": 27,
       "Fat": 28,
-      "Sat.Fat": 24,
+      "SatFat": 24,
       "Fiber": 0,
       "Carbs": 39,
       "Category": "Dairy products"
@@ -31,7 +31,7 @@
       "Calories": 290,
       "Protein": 30,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0,
       "Carbs": 42,
       "Category": "Dairy products"
@@ -43,7 +43,7 @@
       "Calories": 290,
       "Protein": 30,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 1,
       "Carbs": 42,
       "Category": "Dairy products"
@@ -55,7 +55,7 @@
       "Calories": 165,
       "Protein": 8,
       "Fat": 10,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0,
       "Carbs": 11,
       "Category": "Dairy products"
@@ -67,7 +67,7 @@
       "Calories": 690,
       "Protein": 24,
       "Fat": 24,
-      "Sat.Fat": 22,
+      "SatFat": 22,
       "Fiber": 0,
       "Carbs": 70,
       "Category": "Dairy products"
@@ -79,7 +79,7 @@
       "Calories": 235,
       "Protein": 8,
       "Fat": 11,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0,
       "Carbs": 26,
       "Category": "Dairy products"
@@ -91,7 +91,7 @@
       "Calories": 128,
       "Protein": 18,
       "Fat": 4,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 1,
       "Carbs": 13,
       "Category": "Dairy products"
@@ -103,7 +103,7 @@
       "Calories": 285,
       "Protein": 13,
       "Fat": 14,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0,
       "Carbs": 28,
       "Category": "Dairy products"
@@ -115,7 +115,7 @@
       "Calories": 300,
       "Protein": 6,
       "Fat": 18,
-      "Sat.Fat": 16,
+      "SatFat": 16,
       "Fiber": 0,
       "Carbs": 29,
       "Category": "Dairy products"
@@ -127,7 +127,7 @@
       "Calories": 275,
       "Protein": 9,
       "Fat": 10,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": 0,
       "Carbs": 32,
       "Category": "Dairy products"
@@ -139,7 +139,7 @@
       "Calories": 170,
       "Protein": 4,
       "Fat": 15,
-      "Sat.Fat": 13,
+      "SatFat": 13,
       "Fiber": 0,
       "Carbs": 5,
       "Category": "Dairy products"
@@ -151,7 +151,7 @@
       "Calories": 240,
       "Protein": 30,
       "Fat": 11,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0,
       "Carbs": 6,
       "Category": "Dairy products"
@@ -163,7 +163,7 @@
       "Calories": 70,
       "Protein": 4,
       "Fat": 6,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Dairy products"
@@ -175,7 +175,7 @@
       "Calories": 226,
       "Protein": 14,
       "Fat": 19,
-      "Sat.Fat": 17,
+      "SatFat": 17,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Dairy products"
@@ -187,7 +187,7 @@
       "Calories": 105,
       "Protein": 2,
       "Fat": 11,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Dairy products"
@@ -199,7 +199,7 @@
       "Calories": 105,
       "Protein": 7,
       "Fat": 9,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Dairy products"
@@ -211,7 +211,7 @@
       "Calories": 105,
       "Protein": 6,
       "Fat": 9,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Dairy products"
@@ -223,7 +223,7 @@
       "Calories": 105,
       "Protein": 7,
       "Fat": 8,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Dairy products"
@@ -235,7 +235,7 @@
       "Calories": 150,
       "Protein": 12,
       "Fat": 12,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Dairy products"
@@ -247,7 +247,7 @@
       "Calories": 220,
       "Protein": 13,
       "Fat": 16,
-      "Sat.Fat": 14,
+      "SatFat": 14,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Dairy products"
@@ -259,7 +259,7 @@
       "Calories": 120,
       "Protein": 6,
       "Fat": 10,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fats, Oils, Shortenings"
@@ -271,7 +271,7 @@
       "Calories": 100,
       "Protein": "t",
       "Fat": 11,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fats, Oils, Shortenings"
@@ -283,7 +283,7 @@
       "Calories": 665,
       "Protein": 0,
       "Fat": 100,
-      "Sat.Fat": 88,
+      "SatFat": 88,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fats, Oils, Shortenings"
@@ -295,7 +295,7 @@
       "Calories": 992,
       "Protein": 0,
       "Fat": 110,
-      "Sat.Fat": 92,
+      "SatFat": 92,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fats, Oils, Shortenings"
@@ -307,7 +307,7 @@
       "Calories": 806,
       "Protein": "t",
       "Fat": 91,
-      "Sat.Fat": 76,
+      "SatFat": 76,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fats, Oils, Shortenings"
@@ -319,7 +319,7 @@
       "Calories": 100,
       "Protein": "t",
       "Fat": 11,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fats, Oils, Shortenings"
@@ -331,7 +331,7 @@
       "Calories": 110,
       "Protein": "t",
       "Fat": 12,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fats, Oils, Shortenings"
@@ -343,7 +343,7 @@
       "Calories": 125,
       "Protein": 0,
       "Fat": 14,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fats, Oils, Shortenings"
@@ -355,7 +355,7 @@
       "Calories": 125,
       "Protein": 0,
       "Fat": 14,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fats, Oils, Shortenings"
@@ -367,7 +367,7 @@
       "Calories": 125,
       "Protein": 0,
       "Fat": 14,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fats, Oils, Shortenings"
@@ -379,7 +379,7 @@
       "Calories": 60,
       "Protein": "t",
       "Fat": 6,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0,
       "Carbs": 2,
       "Category": "Fats, Oils, Shortenings"
@@ -391,7 +391,7 @@
       "Calories": 75,
       "Protein": "t",
       "Fat": 8,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Fats, Oils, Shortenings"
@@ -403,7 +403,7 @@
       "Calories": 470,
       "Protein": 3,
       "Fat": 55,
-      "Sat.Fat": null,
+      "SatFat": null,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -415,7 +415,7 @@
       "Calories": 95,
       "Protein": 4,
       "Fat": 8,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Meat, Poultry"
@@ -427,7 +427,7 @@
       "Calories": 245,
       "Protein": 23,
       "Fat": 16,
-      "Sat.Fat": 15,
+      "SatFat": 15,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -439,7 +439,7 @@
       "Calories": 245,
       "Protein": 21,
       "Fat": 17,
-      "Sat.Fat": 15,
+      "SatFat": 15,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -451,7 +451,7 @@
       "Calories": 185,
       "Protein": 24,
       "Fat": 10,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -463,7 +463,7 @@
       "Calories": 390,
       "Protein": 16,
       "Fat": 36,
-      "Sat.Fat": 35,
+      "SatFat": 35,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -475,7 +475,7 @@
       "Calories": 330,
       "Protein": 20,
       "Fat": 27,
-      "Sat.Fat": 25,
+      "SatFat": 25,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -487,7 +487,7 @@
       "Calories": 220,
       "Protein": 24,
       "Fat": 12,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -499,7 +499,7 @@
       "Calories": 185,
       "Protein": 22,
       "Fat": 10,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -511,7 +511,7 @@
       "Calories": 120,
       "Protein": 12,
       "Fat": 8,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": "t",
       "Carbs": 6,
       "Category": "Meat, Poultry"
@@ -523,7 +523,7 @@
       "Calories": 115,
       "Protein": 19,
       "Fat": 4,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -535,7 +535,7 @@
       "Calories": 480,
       "Protein": 18,
       "Fat": 28,
-      "Sat.Fat": 25,
+      "SatFat": 25,
       "Fiber": "t",
       "Carbs": 32,
       "Category": "Meat, Poultry"
@@ -547,7 +547,7 @@
       "Calories": 185,
       "Protein": 15,
       "Fat": 10,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": "t",
       "Carbs": 15,
       "Category": "Meat, Poultry"
@@ -559,7 +559,7 @@
       "Calories": 185,
       "Protein": 23,
       "Fat": 9,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -571,7 +571,7 @@
       "Calories": 245,
       "Protein": 25,
       "Fat": 15,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -583,7 +583,7 @@
       "Calories": 290,
       "Protein": 25,
       "Fat": 20,
-      "Sat.Fat": 16,
+      "SatFat": 16,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -595,7 +595,7 @@
       "Calories": 140,
       "Protein": 22,
       "Fat": 14,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 0,
       "Carbs": 2.30,
       "Category": "Meat, Poultry"
@@ -607,7 +607,7 @@
       "Calories": 370,
       "Protein": 16,
       "Fat": 28,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -619,7 +619,7 @@
       "Calories": 480,
       "Protein": 24,
       "Fat": 35,
-      "Sat.Fat": 33,
+      "SatFat": 33,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -631,7 +631,7 @@
       "Calories": 314,
       "Protein": 20,
       "Fat": 14,
-      "Sat.Fat": 14,
+      "SatFat": 14,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -643,7 +643,7 @@
       "Calories": 285,
       "Protein": 18,
       "Fat": 23,
-      "Sat.Fat": 21,
+      "SatFat": 21,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -655,7 +655,7 @@
       "Calories": 260,
       "Protein": 16,
       "Fat": 21,
-      "Sat.Fat": 18,
+      "SatFat": 18,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -667,7 +667,7 @@
       "Calories": 290,
       "Protein": 16,
       "Fat": 22,
-      "Sat.Fat": 19,
+      "SatFat": 19,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -679,7 +679,7 @@
       "Calories": 170,
       "Protein": 13,
       "Fat": 13,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -691,7 +691,7 @@
       "Calories": 165,
       "Protein": 8,
       "Fat": 14,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Meat, Poultry"
@@ -703,7 +703,7 @@
       "Calories": 310,
       "Protein": 21,
       "Fat": 24,
-      "Sat.Fat": 21,
+      "SatFat": 21,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -715,7 +715,7 @@
       "Calories": 475,
       "Protein": 18,
       "Fat": 44,
-      "Sat.Fat": 40,
+      "SatFat": 40,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -727,7 +727,7 @@
       "Calories": 265,
       "Protein": 27,
       "Fat": 15,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -739,7 +739,7 @@
       "Calories": 185,
       "Protein": 23,
       "Fat": 9,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -751,7 +751,7 @@
       "Calories": 305,
       "Protein": 13,
       "Fat": 14,
-      "Sat.Fat": 13,
+      "SatFat": 13,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Meat, Poultry"
@@ -763,7 +763,7 @@
       "Calories": 87,
       "Protein": 12,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 2,
       "Category": "Fish, Seafood"
@@ -775,7 +775,7 @@
       "Calories": 170,
       "Protein": 28,
       "Fat": 5,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -787,7 +787,7 @@
       "Calories": 90,
       "Protein": 14,
       "Fat": 2,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Fish, Seafood"
@@ -799,7 +799,7 @@
       "Calories": 200,
       "Protein": 19,
       "Fat": 10,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": 0,
       "Carbs": 8,
       "Category": "Fish, Seafood"
@@ -811,7 +811,7 @@
       "Calories": 200,
       "Protein": 30,
       "Fat": 8,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -823,7 +823,7 @@
       "Calories": 135,
       "Protein": 16,
       "Fat": 5,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": 0,
       "Carbs": 6,
       "Category": "Fish, Seafood"
@@ -835,7 +835,7 @@
       "Calories": 182,
       "Protein": 26,
       "Fat": 8,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -847,7 +847,7 @@
       "Calories": 211,
       "Protein": 22,
       "Fat": 13,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -859,7 +859,7 @@
       "Calories": 92,
       "Protein": 18,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Fish, Seafood"
@@ -871,7 +871,7 @@
       "Calories": 155,
       "Protein": 18,
       "Fat": 9,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "a",
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -883,7 +883,7 @@
       "Calories": 125,
       "Protein": 19,
       "Fat": 6,
-      "Sat.Fat": 1,
+      "SatFat": 1,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -895,7 +895,7 @@
       "Calories": 120,
       "Protein": 17,
       "Fat": 5,
-      "Sat.Fat": 1,
+      "SatFat": 1,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -907,7 +907,7 @@
       "Calories": 180,
       "Protein": 22,
       "Fat": 9,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -919,7 +919,7 @@
       "Calories": 104,
       "Protein": 18,
       "Fat": 8,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 10,
       "Category": "Fish, Seafood"
@@ -931,7 +931,7 @@
       "Calories": 170,
       "Protein": 20,
       "Fat": 10,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -943,7 +943,7 @@
       "Calories": 110,
       "Protein": 23,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -955,7 +955,7 @@
       "Calories": 180,
       "Protein": 27,
       "Fat": 6,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -967,7 +967,7 @@
       "Calories": 170,
       "Protein": 25,
       "Fat": 7,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Fish, Seafood"
@@ -979,7 +979,7 @@
       "Calories": "8-44",
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 2,
       "Carbs": 10,
       "Category": "Vegetables A-E"
@@ -991,7 +991,7 @@
       "Calories": 18,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0.5,
       "Carbs": 3,
       "Category": "Vegetables A-E"
@@ -1003,7 +1003,7 @@
       "Calories": 25,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0.8,
       "Carbs": 6,
       "Category": "Vegetables A-E"
@@ -1015,7 +1015,7 @@
       "Calories": 140,
       "Protein": 8,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 3.0,
       "Carbs": 24,
       "Category": "Vegetables A-E"
@@ -1027,7 +1027,7 @@
       "Calories": 260,
       "Protein": 16,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 2,
       "Carbs": 48,
       "Category": "Vegetables A-E"
@@ -1039,7 +1039,7 @@
       "Calories": 250,
       "Protein": 11,
       "Fat": 6,
-      "Sat.Fat": 6,
+      "SatFat": 6,
       "Fiber": 2,
       "Carbs": 37,
       "Category": "Vegetables A-E"
@@ -1051,7 +1051,7 @@
       "Calories": 230,
       "Protein": 15,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.5,
       "Carbs": 42,
       "Category": "Vegetables A-E"
@@ -1063,7 +1063,7 @@
       "Calories": 17,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 3,
       "Category": "Vegetables A-E"
@@ -1075,7 +1075,7 @@
       "Calories": 27,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.4,
       "Carbs": 6,
       "Category": "Vegetables A-E"
@@ -1087,7 +1087,7 @@
       "Calories": 1,
       "Protein": 12,
       "Fat": 0,
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0.80,
       "Carbs": null,
       "Category": "Vegetables A-E"
@@ -1099,7 +1099,7 @@
       "Calories": 45,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.9,
       "Carbs": 8,
       "Category": "Vegetables A-E"
@@ -1111,7 +1111,7 @@
       "Calories": 60,
       "Protein": 6,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.7,
       "Carbs": 12,
       "Category": "Vegetables A-E"
@@ -1123,7 +1123,7 @@
       "Calories": 32,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 7,
       "Category": "Vegetables A-E"
@@ -1135,7 +1135,7 @@
       "Calories": 40,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.3,
       "Carbs": 9,
       "Category": "Vegetables A-E"
@@ -1147,7 +1147,7 @@
       "Calories": 45,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.9,
       "Carbs": 10,
       "Category": "Vegetables A-E"
@@ -1159,7 +1159,7 @@
       "Calories": 45,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 10,
       "Category": "Vegetables A-E"
@@ -1171,7 +1171,7 @@
       "Calories": 20,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 5,
       "Category": "Vegetables A-E"
@@ -1183,7 +1183,7 @@
       "Calories": 30,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 6,
       "Category": "Vegetables A-E"
@@ -1195,7 +1195,7 @@
       "Calories": 20,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 4,
       "Category": "Vegetables A-E"
@@ -1207,7 +1207,7 @@
       "Calories": 5,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 1,
       "Category": "Vegetables A-E"
@@ -1219,7 +1219,7 @@
       "Calories": 30,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.4,
       "Carbs": 7,
       "Category": "Vegetables A-E"
@@ -1231,7 +1231,7 @@
       "Calories": 51,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 8,
       "Category": "Vegetables A-E"
@@ -1243,7 +1243,7 @@
       "Calories": 92,
       "Protein": 3,
       "Fat": 1,
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0.8,
       "Carbs": 21,
       "Category": "Vegetables A-E"
@@ -1255,7 +1255,7 @@
       "Calories": 170,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.6,
       "Carbs": 41,
       "Category": "Vegetables A-E"
@@ -1267,7 +1267,7 @@
       "Calories": 6,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.2,
       "Carbs": 1,
       "Category": "Vegetables A-E"
@@ -1279,7 +1279,7 @@
       "Calories": 80,
       "Protein": 5,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3.2,
       "Carbs": 16,
       "Category": "Vegetables A-E"
@@ -1291,7 +1291,7 @@
       "Calories": 30,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.0,
       "Carbs": 9,
       "Category": "Vegetables A-E"
@@ -1303,7 +1303,7 @@
       "Calories": 10,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 2,
       "Category": "Vegetables A-E"
@@ -1315,7 +1315,7 @@
       "Calories": 45,
       "Protein": 4,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.9,
       "Carbs": 8,
       "Category": "Vegetables F-P"
@@ -1327,7 +1327,7 @@
       "Calories": 40,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.5,
       "Carbs": 9,
       "Category": "Vegetables F-P"
@@ -1339,7 +1339,7 @@
       "Calories": 48,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3.2,
       "Carbs": 7,
       "Category": "Vegetables F-P"
@@ -1351,7 +1351,7 @@
       "Calories": 212,
       "Protein": 15,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.4,
       "Carbs": 38,
       "Category": "Vegetables F-P"
@@ -1363,7 +1363,7 @@
       "Calories": 14,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 2,
       "Category": "Vegetables F-P"
@@ -1375,7 +1375,7 @@
       "Calories": 13,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 3,
       "Category": "Vegetables F-P"
@@ -1387,7 +1387,7 @@
       "Calories": 12,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 4,
       "Category": "Vegetables F-P"
@@ -1399,7 +1399,7 @@
       "Calories": 30,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 6,
       "Category": "Vegetables F-P"
@@ -1411,7 +1411,7 @@
       "Calories": 32,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 7,
       "Category": "Vegetables F-P"
@@ -1423,7 +1423,7 @@
       "Calories": 80,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.6,
       "Carbs": 18,
       "Category": "Vegetables F-P"
@@ -1435,7 +1435,7 @@
       "Calories": 22,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 5,
       "Category": "Vegetables F-P"
@@ -1447,7 +1447,7 @@
       "Calories": 2,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": "t",
       "Category": "Vegetables F-P"
@@ -1459,7 +1459,7 @@
       "Calories": 95,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3,
       "Carbs": 22,
       "Category": "Vegetables F-P"
@@ -1471,7 +1471,7 @@
       "Calories": 66,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 13,
       "Category": "Vegetables F-P"
@@ -1483,7 +1483,7 @@
       "Calories": 70,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.2,
       "Carbs": 12,
       "Category": "Vegetables R-Z"
@@ -1495,7 +1495,7 @@
       "Calories": null,
       "Protein": 5,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.8,
       "Carbs": 12,
       "Category": "Vegetables R-Z"
@@ -1507,7 +1507,7 @@
       "Calories": 115,
       "Protein": 8,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.4,
       "Carbs": 21,
       "Category": "Vegetables R-Z"
@@ -1519,7 +1519,7 @@
       "Calories": 53,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 10,
       "Category": "Vegetables R-Z"
@@ -1531,7 +1531,7 @@
       "Calories": 10,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 2,
       "Category": "Vegetables R-Z"
@@ -1543,7 +1543,7 @@
       "Calories": 25,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.4,
       "Carbs": 6,
       "Category": "Vegetables R-Z"
@@ -1555,7 +1555,7 @@
       "Calories": 255,
       "Protein": 19,
       "Fat": 9,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 1,
       "Carbs": 24,
       "Category": "Vegetables R-Z"
@@ -1567,7 +1567,7 @@
       "Calories": 100,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 22,
       "Category": "Vegetables R-Z"
@@ -1579,7 +1579,7 @@
       "Calories": 155,
       "Protein": -1,
       "Fat": 7,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0.4,
       "Carbs": 20,
       "Category": "Vegetables R-Z"
@@ -1591,7 +1591,7 @@
       "Calories": 230,
       "Protein": 4,
       "Fat": 12,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0.7,
       "Carbs": 28,
       "Category": "Vegetables R-Z"
@@ -1603,7 +1603,7 @@
       "Calories": 268,
       "Protein": 4,
       "Fat": 14,
-      "Sat.Fat": 6,
+      "SatFat": 6,
       "Fiber": 0.40,
       "Carbs": 33,
       "Category": "Vegetables R-Z"
@@ -1615,7 +1615,7 @@
       "Calories": 145,
       "Protein": 6,
       "Fat": 8,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 0.40,
       "Carbs": 14,
       "Category": "Vegetables R-Z"
@@ -1627,7 +1627,7 @@
       "Calories": 80,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.40,
       "Carbs": 19,
       "Category": "Vegetables R-Z"
@@ -1639,7 +1639,7 @@
       "Calories": 110,
       "Protein": 1,
       "Fat": 7,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": "t",
       "Carbs": 10,
       "Category": "Vegetables R-Z"
@@ -1651,7 +1651,7 @@
       "Calories": 10,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 2,
       "Category": "Vegetables R-Z"
@@ -1663,7 +1663,7 @@
       "Calories": 32,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.4,
       "Carbs": 8,
       "Category": "Vegetables R-Z"
@@ -1675,7 +1675,7 @@
       "Calories": 260,
       "Protein": 22,
       "Fat": 11,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3.2,
       "Carbs": 20,
       "Category": "Vegetables R-Z"
@@ -1687,7 +1687,7 @@
       "Calories": 26,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 3,
       "Category": "Vegetables R-Z"
@@ -1699,7 +1699,7 @@
       "Calories": 35,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 8,
       "Category": "Vegetables R-Z"
@@ -1711,7 +1711,7 @@
       "Calories": 95,
       "Protein": 4,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.6,
       "Carbs": 23,
       "Category": "Vegetables R-Z"
@@ -1723,7 +1723,7 @@
       "Calories": 155,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 36,
       "Category": "Vegetables R-Z"
@@ -1735,7 +1735,7 @@
       "Calories": 235,
       "Protein": 2,
       "Fat": 6,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": 1.5,
       "Carbs": 80,
       "Category": "Vegetables R-Z"
@@ -1747,7 +1747,7 @@
       "Calories": 50,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 9,
       "Category": "Vegetables R-Z"
@@ -1759,7 +1759,7 @@
       "Calories": 30,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 6,
       "Category": "Vegetables R-Z"
@@ -1771,7 +1771,7 @@
       "Calories": 50,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 10,
       "Category": "Vegetables R-Z"
@@ -1783,7 +1783,7 @@
       "Calories": 15,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 4,
       "Category": "Vegetables R-Z"
@@ -1795,7 +1795,7 @@
       "Calories": 45,
       "Protein": 4,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.8,
       "Carbs": 8,
       "Category": "Vegetables R-Z"
@@ -1807,7 +1807,7 @@
       "Calories": 40,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.8,
       "Carbs": 9,
       "Category": "Vegetables R-Z"
@@ -1819,7 +1819,7 @@
       "Calories": 9,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 1,
       "Category": "Fruits A-F"
@@ -1831,7 +1831,7 @@
       "Calories": 125,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 34,
       "Category": "Fruits A-F"
@@ -1843,7 +1843,7 @@
       "Calories": 14,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 3,
       "Category": "Fruits A-F"
@@ -1855,7 +1855,7 @@
       "Calories": 70,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 18,
       "Category": "Fruits A-F"
@@ -1867,7 +1867,7 @@
       "Calories": 100,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 26,
       "Category": "Fruits A-F"
@@ -1879,7 +1879,7 @@
       "Calories": 220,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 57,
       "Category": "Fruits A-F"
@@ -1891,7 +1891,7 @@
       "Calories": 220,
       "Protein": 4,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 50,
       "Category": "Fruits A-F"
@@ -1903,7 +1903,7 @@
       "Calories": 55,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.70,
       "Carbs": 14,
       "Category": "Fruits A-F"
@@ -1915,7 +1915,7 @@
       "Calories": 140,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 36,
       "Category": "Fruits A-F"
@@ -1927,7 +1927,7 @@
       "Calories": 185,
       "Protein": 2,
       "Fat": 18,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 1.80,
       "Carbs": 6,
       "Category": "Fruits A-F"
@@ -1939,7 +1939,7 @@
       "Calories": 85,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.9,
       "Carbs": 23,
       "Category": "Fruits A-F"
@@ -1951,7 +1951,7 @@
       "Calories": 85,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 6.60,
       "Carbs": 19,
       "Category": "Fruits A-F"
@@ -1963,7 +1963,7 @@
       "Calories": 245,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 65,
       "Category": "Fruits A-F"
@@ -1975,7 +1975,7 @@
       "Calories": 40,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.20,
       "Carbs": 9,
       "Category": "Fruits A-F"
@@ -1987,7 +1987,7 @@
       "Calories": 100,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 26,
       "Category": "Fruits A-F"
@@ -1999,7 +1999,7 @@
       "Calories": 65,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.8,
       "Carbs": 15,
       "Category": "Fruits A-F"
@@ -2011,7 +2011,7 @@
       "Calories": 530,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 142,
       "Category": "Fruits A-F"
@@ -2023,7 +2023,7 @@
       "Calories": 505,
       "Protein": 4,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3.6,
       "Carbs": 134,
       "Category": "Fruits A-F"
@@ -2035,7 +2035,7 @@
       "Calories": 120,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.9,
       "Carbs": 30,
       "Category": "Fruits A-F"
@@ -2047,7 +2047,7 @@
       "Calories": 90,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 22,
       "Category": "Fruits A-F"
@@ -2059,7 +2059,7 @@
       "Calories": 130,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 32,
       "Category": "Fruits A-F"
@@ -2071,7 +2071,7 @@
       "Calories": 195,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 50,
       "Category": "Fruits A-F"
@@ -2083,7 +2083,7 @@
       "Calories": 170,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 44,
       "Category": "Fruits G-P"
@@ -2095,7 +2095,7 @@
       "Calories": 50,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 1,
       "Carbs": 14,
       "Category": "Fruits G-P"
@@ -2107,7 +2107,7 @@
       "Calories": 100,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 24,
       "Category": "Fruits G-P"
@@ -2119,7 +2119,7 @@
       "Calories": 70,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.8,
       "Carbs": 16,
       "Category": "Fruits G-P"
@@ -2131,7 +2131,7 @@
       "Calories": 100,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.7,
       "Carbs": 26,
       "Category": "Fruits G-P"
@@ -2143,7 +2143,7 @@
       "Calories": 160,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 42,
       "Category": "Fruits G-P"
@@ -2155,7 +2155,7 @@
       "Calories": 30,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 10,
       "Category": "Fruits G-P"
@@ -2167,7 +2167,7 @@
       "Calories": 430,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 112,
       "Category": "Fruits G-P"
@@ -2179,7 +2179,7 @@
       "Calories": 405,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 108,
       "Category": "Fruits G-P"
@@ -2191,7 +2191,7 @@
       "Calories": 72,
       "Protein": 1,
       "Fat": 10,
-      "Sat.Fat": 9,
+      "SatFat": 9,
       "Fiber": 0.8,
       "Carbs": 3,
       "Category": "Fruits G-P"
@@ -2203,7 +2203,7 @@
       "Calories": 105,
       "Protein": 1,
       "Fat": 13,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 1,
       "Carbs": 1,
       "Category": "Fruits G-P"
@@ -2215,7 +2215,7 @@
       "Calories": 60,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 1,
       "Carbs": 16,
       "Category": "Fruits G-P"
@@ -2227,7 +2227,7 @@
       "Calories": 112,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.2,
       "Carbs": 25,
       "Category": "Fruits G-P"
@@ -2239,7 +2239,7 @@
       "Calories": 330,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0.4,
       "Carbs": 78,
       "Category": "Fruits G-P"
@@ -2251,7 +2251,7 @@
       "Calories": 75,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.8,
       "Carbs": 18,
       "Category": "Fruits G-P"
@@ -2263,7 +2263,7 @@
       "Calories": 200,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 52,
       "Category": "Fruits G-P"
@@ -2275,7 +2275,7 @@
       "Calories": 35,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 10,
       "Category": "Fruits G-P"
@@ -2287,7 +2287,7 @@
       "Calories": 195,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 50,
       "Category": "Fruits G-P"
@@ -2299,7 +2299,7 @@
       "Calories": 100,
       "Protein": 1,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 25,
       "Category": "Fruits G-P"
@@ -2311,7 +2311,7 @@
       "Calories": 75,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 20,
       "Category": "Fruits G-P"
@@ -2323,7 +2323,7 @@
       "Calories": 95,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.4,
       "Carbs": 26,
       "Category": "Fruits G-P"
@@ -2335,7 +2335,7 @@
       "Calories": 205,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.7,
       "Carbs": 55,
       "Category": "Fruits G-P"
@@ -2347,7 +2347,7 @@
       "Calories": 75,
       "Protein": 1,
       "Fat": "t'",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 19,
       "Category": "Fruits G-P"
@@ -2359,7 +2359,7 @@
       "Calories": 120,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.2,
       "Carbs": 32,
       "Category": "Fruits G-P"
@@ -2371,7 +2371,7 @@
       "Calories": 185,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.7,
       "Carbs": 50,
       "Category": "Fruits G-P"
@@ -2383,7 +2383,7 @@
       "Calories": 30,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.2,
       "Carbs": 7,
       "Category": "Fruits G-P"
@@ -2395,7 +2395,7 @@
       "Calories": 300,
       "Protein": 3,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.8,
       "Carbs": 81,
       "Category": "Fruits G-P"
@@ -2407,7 +2407,7 @@
       "Calories": 170,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.7,
       "Carbs": 45,
       "Category": "Fruits G-P"
@@ -2419,7 +2419,7 @@
       "Calories": 230,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.7,
       "Carbs": 82,
       "Category": "Fruits R-Z"
@@ -2431,7 +2431,7 @@
       "Calories": 100,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2,
       "Carbs": 25,
       "Category": "Fruits R-Z"
@@ -2443,7 +2443,7 @@
       "Calories": 57,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 5,
       "Carbs": 14,
       "Category": "Fruits R-Z"
@@ -2455,7 +2455,7 @@
       "Calories": 385,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.9,
       "Carbs": 98,
       "Category": "Fruits R-Z"
@@ -2467,7 +2467,7 @@
       "Calories": 242,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.3,
       "Carbs": 60,
       "Category": "Fruits R-Z"
@@ -2479,7 +2479,7 @@
       "Calories": 54,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.9,
       "Carbs": 12,
       "Category": "Fruits R-Z"
@@ -2491,7 +2491,7 @@
       "Calories": 40,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1,
       "Carbs": 10,
       "Category": "Fruits R-Z"
@@ -2503,7 +2503,7 @@
       "Calories": 120,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 3.6,
       "Carbs": 29,
       "Category": "Fruits R-Z"
@@ -2515,7 +2515,7 @@
       "Calories": 130,
       "Protein": 3,
       "Fat": 4,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": "t",
       "Carbs": 18,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2527,7 +2527,7 @@
       "Calories": 117,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.10,
       "Carbs": 32,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2539,7 +2539,7 @@
       "Calories": 60,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 1,
+      "SatFat": 1,
       "Fiber": 0.10,
       "Carbs": 12,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2551,7 +2551,7 @@
       "Calories": 55,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 1,
+      "SatFat": 1,
       "Fiber": 0.10,
       "Carbs": 12,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2563,7 +2563,7 @@
       "Calories": 1225,
       "Protein": 39,
       "Fat": 15,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 9.00,
       "Carbs": 229,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2575,7 +2575,7 @@
       "Calories": 1100,
       "Protein": 48,
       "Fat": 14,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 67.50,
       "Carbs": 216,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2587,7 +2587,7 @@
       "Calories": 55,
       "Protein": 2,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.31,
       "Carbs": 11,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2599,7 +2599,7 @@
       "Calories": 100,
       "Protein": 3,
       "Fat": 4,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0.30,
       "Carbs": 15,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2611,7 +2611,7 @@
       "Calories": 110,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 25,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2623,7 +2623,7 @@
       "Calories": 120,
       "Protein": 8,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.2,
       "Carbs": 27,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2635,7 +2635,7 @@
       "Calories": 360,
       "Protein": 9,
       "Fat": 4,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 1.6,
       "Carbs": 74,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2647,7 +2647,7 @@
       "Calories": 55,
       "Protein": 1,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 10,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2659,7 +2659,7 @@
       "Calories": 45,
       "Protein": 1,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 8,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2671,7 +2671,7 @@
       "Calories": 105,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 8,
       "Carbs": 22,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2683,7 +2683,7 @@
       "Calories": 460,
       "Protein": 39,
       "Fat": 22,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.9,
       "Carbs": 33,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2695,7 +2695,7 @@
       "Calories": 400,
       "Protein": 12,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 84,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2707,7 +2707,7 @@
       "Calories": 390,
       "Protein": 13,
       "Fat": 2,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 2.8,
       "Carbs": 79,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2719,7 +2719,7 @@
       "Calories": 155,
       "Protein": 5,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 32,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2731,7 +2731,7 @@
       "Calories": 475,
       "Protein": 18,
       "Fat": 25,
-      "Sat.Fat": 24,
+      "SatFat": 24,
       "Fiber": "t",
       "Carbs": 44,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2743,7 +2743,7 @@
       "Calories": 135,
       "Protein": 4,
       "Fat": 5,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": "t",
       "Carbs": 19,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2755,7 +2755,7 @@
       "Calories": 200,
       "Protein": 7,
       "Fat": 2,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0.1,
       "Carbs": 37,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2767,7 +2767,7 @@
       "Calories": 150,
       "Protein": 5,
       "Fat": 3,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 4.6,
       "Carbs": 26,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2779,7 +2779,7 @@
       "Calories": 250,
       "Protein": 7,
       "Fat": 9,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 28,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2791,7 +2791,7 @@
       "Calories": 250,
       "Protein": 7,
       "Fat": 9,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 28,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2803,7 +2803,7 @@
       "Calories": 180,
       "Protein": 8,
       "Fat": 6,
-      "Sat.Fat": 5,
+      "SatFat": 5,
       "Fiber": "t",
       "Carbs": 23,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2815,7 +2815,7 @@
       "Calories": 152,
       "Protein": 3,
       "Fat": 7,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0.5,
       "Carbs": 20,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2827,7 +2827,7 @@
       "Calories": 55,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": "t",
       "Carbs": 12,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2839,7 +2839,7 @@
       "Calories": 105,
       "Protein": 1,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.6,
       "Carbs": 26,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2851,7 +2851,7 @@
       "Calories": 748,
       "Protein": 15,
       "Fat": 3,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 154,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2863,7 +2863,7 @@
       "Calories": 677,
       "Protein": 14,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.4,
       "Carbs": 142,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2875,7 +2875,7 @@
       "Calories": 692,
       "Protein": 14,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.3,
       "Carbs": 150,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2887,7 +2887,7 @@
       "Calories": 115,
       "Protein": 2,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 26,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2899,7 +2899,7 @@
       "Calories": 132,
       "Protein": 6,
       "Fat": 6,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.2,
       "Carbs": 28,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2911,7 +2911,7 @@
       "Calories": 411,
       "Protein": 3,
       "Fat": 12,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0.1,
       "Carbs": 23,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2923,7 +2923,7 @@
       "Calories": 115,
       "Protein": 3,
       "Fat": 2,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": "t",
       "Carbs": 20,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2935,7 +2935,7 @@
       "Calories": 102,
       "Protein": 4,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.1,
       "Carbs": 20,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2947,7 +2947,7 @@
       "Calories": 285,
       "Protein": 13,
       "Fat": 10,
-      "Sat.Fat": 6,
+      "SatFat": 6,
       "Fiber": 0.50,
       "Carbs": 35,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2959,7 +2959,7 @@
       "Calories": 210,
       "Protein": 6,
       "Fat": 5,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0.50,
       "Carbs": 36,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2971,7 +2971,7 @@
       "Calories": 217,
       "Protein": 4,
       "Fat": 4,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 1.20,
       "Carbs": 40,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2983,7 +2983,7 @@
       "Calories": 100,
       "Protein": 3,
       "Fat": 1,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.70,
       "Carbs": 23,
       "Category": "Breads, cereals, fastfood,grains"
@@ -2995,7 +2995,7 @@
       "Calories": 240,
       "Protein": 8,
       "Fat": 9,
-      "Sat.Fat": 1,
+      "SatFat": 1,
       "Fiber": 0.10,
       "Carbs": 30,
       "Category": "Breads, cereals, fastfood,grains"
@@ -3007,7 +3007,7 @@
       "Calories": 190,
       "Protein": 8,
       "Fat": 5,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": 0.60,
       "Carbs": 30,
       "Category": "Soups"
@@ -3019,7 +3019,7 @@
       "Calories": 100,
       "Protein": 6,
       "Fat": 4,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": 0.50,
       "Carbs": 11,
       "Category": "Soups"
@@ -3031,7 +3031,7 @@
       "Calories": 24,
       "Protein": 5,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Soups"
@@ -3043,7 +3043,7 @@
       "Calories": 75,
       "Protein": 4,
       "Fat": 2,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0,
       "Carbs": 10,
       "Category": "Soups"
@@ -3055,7 +3055,7 @@
       "Calories": 85,
       "Protein": 5,
       "Fat": 2,
-      "Sat.Fat": 8,
+      "SatFat": 8,
       "Fiber": 0.50,
       "Carbs": 12,
       "Category": "Soups"
@@ -3067,7 +3067,7 @@
       "Calories": 200,
       "Protein": 7,
       "Fat": 12,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 1.20,
       "Carbs": 18,
       "Category": "Soups"
@@ -3079,7 +3079,7 @@
       "Calories": 115,
       "Protein": 6,
       "Fat": 4,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0.20,
       "Carbs": 13,
       "Category": "Soups"
@@ -3091,7 +3091,7 @@
       "Calories": 147,
       "Protein": 8,
       "Fat": 3,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0.50,
       "Carbs": 25,
       "Category": "Soups"
@@ -3103,7 +3103,7 @@
       "Calories": 175,
       "Protein": 6,
       "Fat": 7,
-      "Sat.Fat": 6,
+      "SatFat": 6,
       "Fiber": 0.50,
       "Carbs": 22,
       "Category": "Soups"
@@ -3115,7 +3115,7 @@
       "Calories": 80,
       "Protein": 4,
       "Fat": 2,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": 0,
       "Carbs": 14,
       "Category": "Soups"
@@ -3127,7 +3127,7 @@
       "Calories": 150,
       "Protein": 1,
       "Fat": 4,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0.5,
       "Carbs": 29,
       "Category": "Desserts, sweets"
@@ -3139,7 +3139,7 @@
       "Calories": 374,
       "Protein": 11,
       "Fat": 12,
-      "Sat.Fat": 11,
+      "SatFat": 11,
       "Fiber": 0.20,
       "Carbs": 56,
       "Category": "Desserts, sweets"
@@ -3151,7 +3151,7 @@
       "Calories": 110,
       "Protein": 3,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 23,
       "Category": "Desserts, sweets"
@@ -3163,7 +3163,7 @@
       "Calories": 420,
       "Protein": 5,
       "Fat": 14,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 0.3,
       "Carbs": 70,
       "Category": "Desserts, sweets"
@@ -3175,7 +3175,7 @@
       "Calories": 160,
       "Protein": 3,
       "Fat": 3,
-      "Sat.Fat": 2,
+      "SatFat": 2,
       "Fiber": "t",
       "Carbs": 31,
       "Category": "Desserts, sweets"
@@ -3187,7 +3187,7 @@
       "Calories": 105,
       "Protein": 2,
       "Fat": 4,
-      "Sat.Fat": 3,
+      "SatFat": 3,
       "Fiber": 0.2,
       "Carbs": 17,
       "Category": "Desserts, sweets"
@@ -3199,7 +3199,7 @@
       "Calories": 80,
       "Protein": "t",
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0,
       "Carbs": 22,
       "Category": "Desserts, sweets"
@@ -3211,7 +3211,7 @@
       "Calories": 135,
       "Protein": 2,
       "Fat": 7,
-      "Sat.Fat": 4,
+      "SatFat": 4,
       "Fiber": "t",
       "Carbs": 17,
       "Category": "Desserts, sweets"
@@ -3223,7 +3223,7 @@
       "Calories": 155,
       "Protein": 4,
       "Fat": "t",
-      "Sat.Fat": "t",
+      "SatFat": "t",
       "Fiber": 0,
       "Carbs": 36,
       "Category": "Desserts, sweets"
@@ -3235,7 +3235,7 @@
       "Calories": 120,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 30,
       "Category": "Jams, Jellies"
@@ -3247,7 +3247,7 @@
       "Calories": 250,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 12,
+      "SatFat": 12,
       "Fiber": 10,
       "Carbs": 0,
       "Category": "Desserts, sweets"
@@ -3259,7 +3259,7 @@
       "Calories": 425,
       "Protein": 13,
       "Fat": 38,
-      "Sat.Fat": 28,
+      "SatFat": 28,
       "Fiber": 1.8,
       "Carbs": 13,
       "Category": "Seeds and Nuts"
@@ -3271,7 +3271,7 @@
       "Calories": 457,
       "Protein": 10,
       "Fat": 47,
-      "Sat.Fat": 31,
+      "SatFat": 31,
       "Fiber": 2,
       "Carbs": 7,
       "Category": "Seeds and Nuts"
@@ -3283,7 +3283,7 @@
       "Calories": 392,
       "Protein": 12,
       "Fat": 32,
-      "Sat.Fat": 28,
+      "SatFat": 28,
       "Fiber": 0.9,
       "Carbs": 20,
       "Category": "Seeds and Nuts"
@@ -3295,7 +3295,7 @@
       "Calories": 290,
       "Protein": 13,
       "Fat": 25,
-      "Sat.Fat": 16,
+      "SatFat": 16,
       "Fiber": 1.2,
       "Carbs": 9,
       "Category": "Seeds and Nuts"
@@ -3307,7 +3307,7 @@
       "Calories": 300,
       "Protein": 12,
       "Fat": 25,
-      "Sat.Fat": 17,
+      "SatFat": 17,
       "Fiber": 0.9,
       "Carbs": 9,
       "Category": "Seeds and Nuts"
@@ -3319,7 +3319,7 @@
       "Calories": 284,
       "Protein": 13,
       "Fat": 24,
-      "Sat.Fat": 10,
+      "SatFat": 10,
       "Fiber": 0.9,
       "Carbs": 8,
       "Category": "Seeds and Nuts"
@@ -3331,7 +3331,7 @@
       "Calories": 343,
       "Protein": 5,
       "Fat": 35,
-      "Sat.Fat": 25,
+      "SatFat": 25,
       "Fiber": 1.1,
       "Carbs": 7,
       "Category": "Seeds and Nuts"
@@ -3343,7 +3343,7 @@
       "Calories": 280,
       "Protein": 9,
       "Fat": 24,
-      "Sat.Fat": 13,
+      "SatFat": 13,
       "Fiber": 3.1,
       "Carbs": 10,
       "Category": "Seeds and Nuts"
@@ -3355,7 +3355,7 @@
       "Calories": 280,
       "Protein": 12,
       "Fat": 26,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 1.9,
       "Carbs": 10,
       "Category": "Seeds and Nuts"
@@ -3367,7 +3367,7 @@
       "Calories": 325,
       "Protein": 7,
       "Fat": 32,
-      "Sat.Fat": 7,
+      "SatFat": 7,
       "Fiber": 1,
       "Carbs": 8,
       "Category": "Seeds and Nuts"
@@ -3379,7 +3379,7 @@
       "Calories": 228,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 8,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3391,7 +3391,7 @@
       "Calories": 70,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": "t",
       "Category": "Drinks,Alcohol, Beverages"
@@ -3403,7 +3403,7 @@
       "Calories": 164,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 9,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3415,7 +3415,7 @@
       "Calories": 100,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 5,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3427,7 +3427,7 @@
       "Calories": 0,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3439,7 +3439,7 @@
       "Calories": 0,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 0,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3451,7 +3451,7 @@
       "Calories": 137,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 38,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3463,7 +3463,7 @@
       "Calories": 161,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 42,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3475,7 +3475,7 @@
       "Calories": 105,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 28,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3487,7 +3487,7 @@
       "Calories": 140,
       "Protein": 0,
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 35,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3499,7 +3499,7 @@
       "Calories": 3,
       "Protein": "t",
       "Fat": 0,
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Drinks,Alcohol, Beverages"
@@ -3511,7 +3511,7 @@
       "Calories": 4,
       "Protein": 0,
       "Fat": "t",
-      "Sat.Fat": 0,
+      "SatFat": 0,
       "Fiber": 0,
       "Carbs": 1,
       "Category": "Drinks,Alcohol, Beverages"

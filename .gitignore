@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# IDE settings
+.idea/
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Logs and temp files
+*.log
+*.swp
+*~
+
+# Ignore environment file that contains sensitive information (API keys, etc.)
+.env
+
+# Ignore any sensitive keys or credentials
+openai_api_key.txt
+
+# Ignore FAISS index files
+*.index
+
+# Ignore data and embeddings files
+*.csv
+*.npy
+*.npz
+
+# Generated evaluation results
+ground_truth_eval_results.csv
+text_based_eval_results.csv
+vector_based_eval_results.csv
+llm_rag_eval_results.csv
+
+# Monitoring files
+monitoring_response_times.csv
+monitoring_user_ratings.csv
+monitoring_dashboard.csv
+
+# Docker related files
+Dockerfile
+docker-compose.yml
+*.pid
+
+# Python virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore large datasets or intermediate data
+preprocessed_nutrition_data.csv
+nutrition_embeddings.npy
+nutrition_faiss.index
+
+# Ignore compiled models if applicable
+*.h5
+*.pkl
+*.model
